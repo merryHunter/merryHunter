@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Ivan Chernukha!
+-----
 <!--
 **merryHunter/merryHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile!
+
+
+👨‍💻 About Me
+-------
+
+I'm a Machine Learning Engineer based in USA (looking to relocate to Europe, reach out to me:). I specialize in Python, MLOps and Cloud technologies, love working on technical challenges.
+
+🔧 Tech Stack
+-------  
+* Languages: Python, C++  
+* Frameworks/Tools: Docker, PyTorch, TensorFlow, Selenium, dbt, Flask, LangChain
+* CI/CD: GitHub Actions, GitLab  
+* Cloud: AWS, Azure (certified in both)  
+* Projects I worked on: Building a Search Engine, Web scraping automation, PDF OCR & RAG chat, Vessel churn, Semantic Segmentation, and many more!  
