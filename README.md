@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Ivan Chernukha!
------
+## Hi there 👋 I'm Ivan Chernukha!
+
 <!--
 **merryHunter/merryHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
