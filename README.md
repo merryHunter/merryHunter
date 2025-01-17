@@ -26,7 +26,7 @@ I'm a Machine Learning Engineer based in USA (looking to relocate to Europe, rea
 🔧 Tech Stack
 -------  
 * Languages: Python, C++  
-* Frameworks/Tools: Docker, PyTorch, TensorFlow, Selenium, dbt, Flask, LangChain
-* CI/CD: GitHub Actions, GitLab  
+* Frameworks/Tools: Docker, Bash, PyTorch, TensorFlow, Selenium, dbt, Flask, LangChain
+* CI/CD: GitHub Actions, GitLab, Azure DevOps  
 * Cloud: AWS, Azure (certified in both)  
 * Projects I worked on: Building a Search Engine, Web scraping automation, PDF OCR & RAG chat, Vessel churn, Semantic Segmentation, and many more!  
