@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 👨‍💻 About Me
 -------
 
-I'm a Machine Learning Engineer based in USA (looking to relocate to Europe, reach out to me:). I specialize in Python, MLOps and Cloud technologies, love working on technical challenges.
+I'm a Machine Learning Engineer based in the USA (looking to relocate to Europe, reach out to me:). I specialize in Python, MLOps and Cloud technologies, love working on technical challenges.
 
 🔧 Tech Stack
 -------  
