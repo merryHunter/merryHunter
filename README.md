@@ -30,3 +30,4 @@ I'm a Machine Learning Engineer based in the USA (looking to relocate to Europe,
 * CI/CD: GitHub Actions, GitLab, Azure DevOps  
 * Cloud: AWS, Azure (certified in both)  
 * Projects I worked on: Building a Search Engine, Web scraping automation, PDF OCR & RAG chat, Vessel churn, Semantic Segmentation, and many more!  
+![](https://hit.yhype.me/github/profile?account_id=8739446)
