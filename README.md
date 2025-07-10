@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 👨‍💻 About Me
 -------
 
-I'm a Machine Learning Engineer based in Stockholm (looking to for new opportunities in Sweden, reach out to me:). I specialize in Python, MLOps and Cloud technologies, love working on technical challenges.
+I'm a Machine Learning Engineer based in Stockholm (looking for new opportunities in Sweden, reach out to me:). I specialize in Python, MLOps and Cloud technologies, love working on technical challenges.
 
 🔧 Tech Stack
 -------  
